@@ -6,22 +6,26 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Hola
+tagline:          'Taral Lokhande Profile'
+#description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'An accidental Engineer</a>.'
+url:              http://taralsprofile.github.io
 baseurl:          /
 
+
 author:
-  name:           'Mark Otto'
+  name:           'Taral Lokhande'
   url:            https://twitter.com/mdo
 
 paginate:         5
 
+google_analytics: UA-100787367-2
+
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+github:   taralsprofile/jekyll-now
+  #repo:           https://github.com/poole/hyde
 
 theme: jekyll-theme-merlot
